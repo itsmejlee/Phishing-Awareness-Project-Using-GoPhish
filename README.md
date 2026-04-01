@@ -18,6 +18,10 @@ This project uses Gophish, a phishing simulation tool, to help organizations:
 - Simulate real phishing attacks
 - Improve overall cybersecurity awareness
 
+## GoPhish  
+<img width="994" height="298" alt="image" src="https://github.com/user-attachments/assets/259295d5-61b1-4f86-a8f2-5db1457ab5d0" />
+Gophish is an open source phishing simulation tool to help pentesters and businesses conduct a real world phishing simulation.
+
 ## Purpose
 
 The goal of this project is to reduce the risk of phishing attacks within an organization by focusing on human behavior.
