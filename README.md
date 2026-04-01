@@ -51,3 +51,11 @@ Measure:
 - Improvement over time
 5. Strengthen security posture
 Better user awareness = fewer successful attacks
+
+## Disclaimer
+
+This project uses GoPhish for educational and security awareness purposes only.
+
+All phishing simulations and related activities are conducted in controlled environments with explicit authorization from all involved parties. This repository does not promote, support, or condone any illegal or unethical activities.
+
+The author is not responsible for any misuse or damage caused by the use of this content.
