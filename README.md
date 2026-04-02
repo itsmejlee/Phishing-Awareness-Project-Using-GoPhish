@@ -66,7 +66,7 @@ Key Insights:
 - Reinforced the importance of user education
 - Maintained user privacy while still evaluating risk 
 
-##Purpose
+## Purpose
 The project aims to strengthen the human layer of cybersecurity by:
 - Raising awareness of phishing tactics
 - Encouraging critical thinking before interacting with emails
