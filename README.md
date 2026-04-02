@@ -74,24 +74,24 @@ The project aims to strengthen the human layer of cybersecurity by:
 - Reducing the likelihood of successful cyberattacks
 
 ## Security & Ethical Considerations
-Simulations conducted in a controlled and authorized environment
-No collection of personal, sensitive, or credential data
-Email templates were safe and non-malicious
-Ethical security practices strictly followed
+- Simulations conducted in a controlled and authorized environment
+- No collection of personal, sensitive, or credential data
+- Email templates were safe and non-malicious
+- Ethical security practices strictly followed
 
 ## Key Learnings
-Human behavior is often the weakest link in security
-Even simple phishing emails can be surprisingly effective
-Awareness training significantly improves user response
-Reporting mechanisms are critical for early threat detection
+- Human behavior is often the weakest link in security
+- Even simple phishing emails can be surprisingly effective
+- Awareness training significantly improves user response
+- Reporting mechanisms are critical for early threat detection
 
 ## Future Improvements
-Implement structured phishing awareness training programs
-Increase user engagement in reporting suspicious emails
-Simulate more advanced phishing scenarios
-Track long-term improvement in user behavior
+- Implement structured phishing awareness training programs
+- Increase user engagement in reporting suspicious emails
+- Simulate more advanced phishing scenarios
+- Track long-term improvement in user behavior
 
-💼 Key Skills Demonstrated
+## Key Skills Demonstrated
 - Cybersecurity Awareness
 - Phishing Simulation
 - Social Engineering Analysis
