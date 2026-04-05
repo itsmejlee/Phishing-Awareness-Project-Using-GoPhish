@@ -51,17 +51,22 @@ Emphasizes privacy-by-design, ethical security testing, and responsible data han
 
 ## Metrics & Analysis
 
+<img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/5e4b3404-1870-4e2b-ba64-6a80dafae8a9" />
+
+
 The following metrics were tracked to evaluate effectiveness:
 - Click Rate – Users who clicked phishing links
+- Open Rate - Users who viewed the email links
 - Report Rate – Users who reported suspicious emails
 
-⚠️ Note: No sensitive user data, credentials, or submissions were collected.
+**Note:** No sensitive user data, credentials, or submissions were collected.
 
 Key Insights:
 - Some users interacted with links, highlighting awareness gaps
 - Reporting behavior varied, emphasizing the need for training
 - Behavioral trends helped guide targeted educational initiatives
-- Outcome:
+
+Outcome:
 - Provided actionable insights for improving security awareness
 - Reinforced the importance of user education
 - Maintained user privacy while still evaluating risk 
