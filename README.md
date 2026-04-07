@@ -66,11 +66,6 @@ Key Insights:
 - Reporting behavior varied, emphasizing the need for training
 - Behavioral trends helped guide targeted educational initiatives
 
-Outcome:
-- Provided actionable insights for improving security awareness
-- Reinforced the importance of user education
-- Maintained user privacy while still evaluating risk 
-
 ## Purpose
 The project aims to strengthen the human layer of cybersecurity by:
 - Raising awareness of phishing tactics
@@ -83,31 +78,6 @@ The project aims to strengthen the human layer of cybersecurity by:
 - No collection of personal, sensitive, or credential data
 - Email templates were safe and non-malicious
 - Ethical security practices strictly followed
-
-## Key Learnings
-- Human behavior is often the weakest link in security
-- Even simple phishing emails can be surprisingly effective
-- Awareness training significantly improves user response
-- Reporting mechanisms are critical for early threat detection
-
-## Future Improvements
-- Implement structured phishing awareness training programs
-- Increase user engagement in reporting suspicious emails
-- Simulate more advanced phishing scenarios
-- Track long-term improvement in user behavior
-
-## Key Skills Demonstrated
-- Cybersecurity Awareness
-- Phishing Simulation
-- Social Engineering Analysis
-- User Behavior Analysis
-- Risk Assessment
-- Incident Reporting
-- Email Security
-- Threat Mitigation
-- Security Awareness Training
-- Privacy by Design
-- Ethical Security Practices
 
 ⚠️ Disclaimer
 
